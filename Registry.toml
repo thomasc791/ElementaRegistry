@@ -3,3 +3,4 @@ uuid = "51257884-6868-43c1-a374-97747702b24a"
 repo = "git@github.com:thomasc791/ElementaRegistry.git"
 
 [packages]
+7c869e6c-c1f0-4866-9669-0eca92445837 = { name = "FlatMat", path = "F/FlatMat" }
