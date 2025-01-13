@@ -3,4 +3,5 @@ uuid = "51257884-6868-43c1-a374-97747702b24a"
 repo = "git@github.com:thomasc791/ElementaRegistry.git"
 
 [packages]
+20219dce-5ca2-40bc-979b-617c665cec18 = { name = "GmshReader", path = "G/GmshReader" }
 7c869e6c-c1f0-4866-9669-0eca92445837 = { name = "FlatMat", path = "F/FlatMat" }
