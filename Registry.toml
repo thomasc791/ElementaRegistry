@@ -1,0 +1,5 @@
+name = "LocalElementa"
+uuid = "51257884-6868-43c1-a374-97747702b24a"
+repo = "git@github.com:thomasc791/ElementaRegistry.git"
+
+[packages]
