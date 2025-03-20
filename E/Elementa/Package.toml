@@ -1,0 +1,3 @@
+name = "Elementa"
+uuid = "daa31125-8cb0-4887-808e-47737bbb35c3"
+repo = "git@gitlab.tudelft.nl:aaragon/elementa.jl.git"
